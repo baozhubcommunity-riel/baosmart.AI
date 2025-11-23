@@ -1,0 +1,22 @@
+{
+  "name": "Baosmart.AI",
+  "short_name": "Baosmart",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#f8fafc",
+  "theme_color": "#ffffff",
+  "description": "A friendly, multi-subject AI tutor named Baosmart.",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/4712/4712035.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/4712/4712035.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
